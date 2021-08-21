@@ -1,94 +1,42 @@
-Script started on Sat 21 Aug 2021 03:29:12 PM CDT
-[?1034hbash-4.2$ "I forgot to start sr[Kcritp[K[Kpt wa[K[Kearlier so I already cloned my remo[K[Kpo, I will be making another clone of remo[K[Kpo and then delete clone[K[K[K[K[Kextra clone"
-bash: I forgot to start script earlier so I already cloned my repo, I will be making another clone of repo and then delete extra clone: command not found
-bash-4.2$ git status
+Script started on Sat 21 Aug 2021 03:44:47 PM CDT
+[?1034hbash-4.2$ git log
+[?1h=commit 9f4d778e660e5aa440bce15c77834762327ebbba[m
+Author: Rajesh Patel <rajesh.patel20110@gmail.com>[m
+Date:   Sat Aug 21 15:41:59 2021 -0500[m
+[m
+    finished git script and added comment in simple.c for diff[m
+[m
+commit ae05937559e32d38d93f1e257ec7681de8a023b1[m
+Author: Rajesh Patel <rajesh.patel20110@gmail.com>[m
+Date:   Sat Aug 21 15:32:26 2021 -0500[m
+[m
+    added command.script, various info files, and c program file and executable[m
+[m
+commit ff60051c7cb1727ad732f6b588b44674515b339b[m
+Author: RajeshPatel17 <67518979+RajeshPatel17@users.noreply.github.com>[m
+Date:   Fri Aug 20 22:29:53 2021 -0500[m
+[m
+    Initial commit[m
+[K[?1l>bash-4.2$ vi readmedelete.txt
+[?1049h[?1h=[1;59r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[59;1H"readmedelete.txt" [New File][2;1H[1m[34m~                                                                                                                                                                                                             [3;1H~                                                                                                                                                                                                             [4;1H~                                                                                                                                                                                                             [5;1H~                                                                                                                                                                                                             [6;1H~                                                                                                                                                                                                             [7;1H~                                                                                                                                                                                                             [8;1H~                                                                                                                                                                                                             [9;1H~                                                                                                                                                                                                             [10;1H~                                                                                                                                                                                                             [11;1H~                                                                                                                                                                                                             [12;1H~                                                                                                                                                                                                             [13;1H~                                                                                                                                                                                                             [14;1H~                                                                                                                                                                                                             [15;1H~                                                                                                                                                                                                             [16;1H~                                                                                                                                                                                                             [17;1H~                                                                                                                                                                                                             [18;1H~                                                                                                                                                                                                             [19;1H~                                                                                                                                                                                                             [20;1H~                                                                                                                                                                                                             [21;1H~                                                                                                                                                                                                             [22;1H~                                                                                                                                                                                                             [23;1H~                                                                                                                                                                                                             [24;1H~                                                                                                                                                                                                             [25;1H~                                                                                                                                                                                                             [26;1H~                                                                                                                                                                                                             [27;1H~                                                                                                                                                                                                             [28;1H~                                                                                                                                                                                                             [29;1H~                                                                                                                                                                                                             [30;1H~                                                                                                                                                                                                             [31;1H~                                                                                                                                                                                                             [32;1H~                                                                                                                                                                                                             [33;1H~                                                                                                                                                                                                             [34;1H~                                                                                                                                                                                                             [35;1H~                                                                                                                                                                                                             [36;1H~                                                                                                                                                                                                             [37;1H~                                                                                                                                                                                                             [38;1H~                                                                                                                                                                                                             [39;1H~                                                                                                                                                                                                             [40;1H~                                                                                                                                                                                                             [41;1H~                                                                                                                                                                                                             [42;1H~                                                                                                                                                                                                             [43;1H~                                                                                                                                                                                                             [44;1H~                                                                                                                                                                                                             [45;1H~                                                                                                                                                                                                             [46;1H~                                                                                                                                                                                                             [47;1H~                                                                                                                                                                                                             [48;1H~                                                                                                                                                                                                             [49;1H~                                                                                                                                                                                                             [50;1H~                                                                                                                                                                                                             [51;1H~                                                                                                                                                                                                             [52;1H~                                                                                                                                                                                                             [53;1H~                                                                                                                                                                                                             [54;1H~                                                                                                                                                                                                             [55;1H~                                                                                                                                                                                                             [56;1H~                                                                                                                                                                                                             [57;1H~                                                                                                                                                                                                             [58;1H~                                                                                                                                                                                                             [1;1H[?12l[?25h[?25l[m[59;1H[1m-- INSERT --[m[59;13H[K[1;1H[?12l[?25h[?25l"[?12l[?25h[?25lt[?12l[?25h[?25lh[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25lg[?12l[?25h[?25le[?12l[?25h[?25lt[?12l[?25h[?25ls[?12l[?25h[?25l [?12l[?25h[?25ld[?12l[?25h[?25le[?12l[?25h[?25ll[?12l[?25h[?25lt[?12l[?25h[?25le[?12l[?25h[?25l[1;16H[K[1;16H[?12l[?25h[?25l[1;15H[K[1;15H[?12l[?25h[?25le[?12l[?25h[?25lt[?12l[?25h[?25le[?12l[?25h[?25ld[?12l[?25h[?25l"[?12l[?25h[?25l[2;1H[K[2;1H[?12l[?25h[59;1H[K[2;1H[?25l[?12l[?25h[?25l[59;1H:[?12l[?25hwq[?25l"readmedelete.txt" [New] 2L, 21C written
+[?1l>[?12l[?25h[?1049lbash-4.2$ git status
 # On branch main
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	commands.script
-#	cpuinfo.txt
-#	git.script
-#	interrupts.txt
-#	lspxi.txt
-#	meminfo.txt
-#	simple
-#	simple.c
-nothing added to commit but untracked files present (use "git add" to track)
-bash-4.2$ git diff
-[?1h=[K[?1l>bash-4.2$ git add C[K[K[K[K[K[K[K[K[Kls
-commands.script  cpuinfo.txt  git.script  interrupts.txt  lspxi.txt  meminfo.txt  README.md  simple  simple.c
-bash-4.2$ git add c
-commands.script  cpuinfo.txt      
-bash-4.2$ git add commands.script cpuinfo.txt interrupts.txt lspxi.txt meminfo.txt simple i[Ksimple.c 
-bash-4.2$ git commit -m "added scr[K[K[Kcommand.script, various info files, and c program file and executable"
-[main 1901722] added command.script, various info files, and c program file and executable
- Committer: Rajesh R Patel <rrp0019@tux063.eng.auburn.edu>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly:
-
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 7 files changed, 1420 insertions(+)
- create mode 100644 commands.script
- create mode 100644 cpuinfo.txt
- create mode 100644 interrupts.txt
- create mode 100644 lspxi.txt
- create mode 100644 meminfo.txt
- create mode 100755 simple
- create mode 100644 simple.c
-bash-4.2$ git com[Knfo[Kig user.name "Rajesh Patel"
-bash-4.2$ git congf[K[Kfig user.emaui[K[Kil rajesh.patel20110@gmaul[K[Kil.com
-bash-4.2$ git commit --amend --reseta[K-author
-[?1049h[?1h=[1;59r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[59;1H".git/COMMIT_EDITMSG" 23L, 696C[1;1Hadded command.script, various info files, and c program file and executable
-
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-# On branch main
-# Your branch is ahead of 'origin/main' by 1 commit.
-#   (use "git push" to publish your local commits)
-#
-# Changes to be committed:
-#   (use "git reset HEAD^1 <file>..." to unstage)
-#
-#[7Cnew file:   commands.script
-#[7Cnew file:   cpuinfo.txt
-#[7Cnew file:   interrupts.txt
-#[7Cnew file:   lspxi.txt
-#[7Cnew file:   meminfo.txt
-#[7Cnew file:   simple
-#[7Cnew file:   simple.c
+#	modified:   git.script
 #
 # Untracked files:
 #   (use "git add <file>..." to include in what will be committed)
 #
-#[7Cgit.script
-[1m[34m~                                                                                                                                                                                                             [25;1H~                                                                                                                                                                                                             [26;1H~                                                                                                                                                                                                             [27;1H~                                                                                                                                                                                                             [28;1H~                                                                                                                                                                                                             [29;1H~                                                                                                                                                                                                             [30;1H~                                                                                                                                                                                                             [31;1H~                                                                                                                                                                                                             [32;1H~                                                                                                                                                                                                             [33;1H~                                                                                                                                                                                                             [34;1H~                                                                                                                                                                                                             [35;1H~                                                                                                                                                                                                             [36;1H~                                                                                                                                                                                                             [37;1H~                                                                                                                                                                                                             [38;1H~                                                                                                                                                                                                             [39;1H~                                                                                                                                                                                                             [40;1H~                                                                                                                                                                                                             [41;1H~                                                                                                                                                                                                             [42;1H~                                                                                                                                                                                                             [43;1H~                                                                                                                                                                                                             [44;1H~                                                                                                                                                                                                             [45;1H~                                                                                                                                                                                                             [46;1H~                                                                                                                                                                                                             [47;1H~                                                                                                                                                                                                             [48;1H~                                                                                                                                                                                                             [49;1H~                                                                                                                                                                                                             [50;1H~                                                                                                                                                                                                             [51;1H~                                                                                                                                                                                                             [52;1H~                                                                                                                                                                                                             [53;1H~                                                                                                                                                                                                             [54;1H~                                                                                                                                                                                                             [55;1H~                                                                                                                                                                                                             [56;1H~                                                                                                                                                                                                             [57;1H~                                                                                                                                                                                                             [58;1H~                                                                                                                                                                                                             [1;1H[?12l[?25h[madded command.script, various info files, and c program file and executabl[?25l[59;1H[K[59;1H:[?12l[?25hq[?25l[59;2H[K[59;2H[?12l[?25hwq[?25l".git/COMMIT_EDITMSG" 23L, 696C written
-[?1l>[?12l[?25h[?1049l[main ae05937] added command.script, various info files, and c program file and executable
- 7 files changed, 1420 insertions(+)
- create mode 100644 commands.script
- create mode 100644 cpuinfo.txt
- create mode 100644 interrupts.txt
- create mode 100644 lspxi.txt
- create mode 100644 meminfo.txt
- create mode 100755 simple
- create mode 100644 simple.c
-bash-4.2$ git statt[Kus
-# On branch main
-# Your branch is ahead of 'origin/main' by 1 commit.
-#   (use "git push" to publish your local commits)
-#
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-#
-#	git.script
-nothing added to commit but untracked files present (use "git add" to track)
+#	readmedelete.txt
+no changes added to commit (use "git add" and/or "git commit -a")
+bash-4.2$ git add readmedelete.txt 
+bash-4.2$ git commit -m "gonna delete this"
+[main ffb0409] gonna delete this
+ 1 file changed, 2 insertions(+)
+ create mode 100644 readmedelete.txt
 bash-4.2$ git push
 warning: push.default is unset; its implicit value is changing in
 Git 2.0 from 'matching' to 'simple'. To squelch this message
@@ -106,165 +54,229 @@ See 'git help config' and search for 'push.default' for further information.
 
 Username for 'https://github.com': RajeshPatel17
 Password for 'https://RajeshPatel17@github.com': 
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/RajeshPatel17/COMP3500_Project1.git/'
-bash-4.2$ git pushstatus[2Ppush
-warning: push.default is unset; its implicit value is changing in
-Git 2.0 from 'matching' to 'simple'. To squelch this message
-and maintain the current behavior after the default changes, use:
-
-  git config --global push.default matching
-
-To squelch this message and adopt the new behavior now, use:
-
-  git config --global push.default simple
-
-See 'git help config' and search for 'push.default' for further information.
-(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
-'current' instead of 'simple' if you sometimes use older versions of Git)
-
-Username for 'https://github.com': RajeshPatel17
-Password for 'https://RajeshPatel17@github.com': 
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/RajeshPatel17/COMP3500_Project1.git/'
-bash-4.2$ git pushstatus[2Ppush
-warning: push.default is unset; its implicit value is changing in
-Git 2.0 from 'matching' to 'simple'. To squelch this message
-and maintain the current behavior after the default changes, use:
-
-  git config --global push.default matching
-
-To squelch this message and adopt the new behavior now, use:
-
-  git config --global push.default simple
-
-See 'git help config' and search for 'push.default' for further information.
-(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
-'current' instead of 'simple' if you sometimes use older versions of Git)
-
-Username for 'https://github.com': RajeshPatel17
-Password for 'https://RajeshPatel17@github.com': 
-Counting objects: 10, done.
+Counting objects: 4, done.
 Delta compression using up to 16 threads.
-Compressing objects:  11% (1/9)   Compressing objects:  22% (2/9)   Compressing objects:  33% (3/9)   Compressing objects:  44% (4/9)   Compressing objects:  55% (5/9)   Compressing objects:  66% (6/9)   Compressing objects:  77% (7/9)   Compressing objects:  88% (8/9)   Compressing objects: 100% (9/9)   Compressing objects: 100% (9/9), done.
-Writing objects:  11% (1/9)   Writing objects:  22% (2/9)   Writing objects:  33% (3/9)   Writing objects:  44% (4/9)   Writing objects:  55% (5/9)   Writing objects:  66% (6/9)   Writing objects:  77% (7/9)   Writing objects:  88% (8/9)   Writing objects: 100% (9/9)   Writing objects: 100% (9/9), 28.98 KiB | 0 bytes/s, done.
-Total 9 (delta 0), reused 0 (delta 0)
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 307 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
 To https://github.com/RajeshPatel17/COMP3500_Project1.git
-   ff60051..ae05937  main -> main
-bash-4.2$ ls
-commands.script  cpuinfo.txt  git.script  interrupts.txt  lspxi.txt  meminfo.txt  README.md  simple  simple.c
-bash-4.2$ git status
+   9f4d778..ffb0409  main -> main
+bash-4.2$ git [K[K[K[Kls
+commands.script  cpuinfo.txt  git.script  interrupts.txt  lspxi.txt  meminfo.txt  readmedelete.txt  README.md  simple  simple.c
+bash-4.2$ rm readmedelete.txt 
+bash-4.2$ git statuy[K[Kus
 # On branch main
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
 #
-#	git.script
-nothing added to commit but untracked files present (use "git add" to track)
-bash-4.2$ git [K[K[K[Kcd ..
+#	modified:   git.script
+#	deleted:    readmedelete.txt
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+bash-4.2$ git add readmedelete.txt
+warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
+whose behaviour will change in Git 2.0 with respect to paths you removed.
+Paths like 'readmedelete.txt' that are
+removed from your working tree are ignored with this version of Git.
+
+* 'git add --ignore-removal <pathspec>', which is the current default,
+  ignores paths you removed from your working tree.
+
+* 'git add --all <pathspec>' will let you also record the removals.
+
+Run 'git status' to check the paths you removed from your working tree.
+
+bash-4.2$ git statua[Ks
+# On branch main
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   git.script
+#	deleted:    readmedelete.txt
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+bash-4.2$ git add readmedelete.txt
+warning: You ran 'git add' with neither '-A (--all)' or '--ignore-removal',
+whose behaviour will change in Git 2.0 with respect to paths you removed.
+Paths like 'readmedelete.txt' that are
+removed from your working tree are ignored with this version of Git.
+
+* 'git add --ignore-removal <pathspec>', which is the current default,
+  ignores paths you removed from your working tree.
+
+* 'git add --all <pathspec>' will let you also record the removals.
+
+Run 'git status' to check the paths you removed from your working tree.
+
+bash-4.2$ vi di[K[Ksimple.c
+[?1049h[?1h=[1;59r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[59;1H"simple.c" 15L, 273C[1;1H#include <stdio.h>
+#include <math.h>
+
+int main()
+{[6;9Hint array[10] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100}; #comment for diff[7;9Hdouble average = 0.00;[9;9Hfor(int i = 0; i < 10; i++)[10;9H{[11;17Haverage += sqrt((double)array[i]);[12;9H}[13;9Haverage /= 10;[14;9Hprintf("%.2f\n", average);
+}
+[1m[34m~                                                                                                                                                                                                             [17;1H~                                                                                                                                                                                                             [18;1H~                                                                                                                                                                                                             [19;1H~                                                                                                                                                                                                             [20;1H~                                                                                                                                                                                                             [21;1H~                                                                                                                                                                                                             [22;1H~                                                                                                                                                                                                             [23;1H~                                                                                                                                                                                                             [24;1H~                                                                                                                                                                                                             [25;1H~                                                                                                                                                                                                             [26;1H~                                                                                                                                                                                                             [27;1H~                                                                                                                                                                                                             [28;1H~                                                                                                                                                                                                             [29;1H~                                                                                                                                                                                                             [30;1H~                                                                                                                                                                                                             [31;1H~                                                                                                                                                                                                             [32;1H~                                                                                                                                                                                                             [33;1H~                                                                                                                                                                                                             [34;1H~                                                                                                                                                                                                             [35;1H~                                                                                                                                                                                                             [36;1H~                                                                                                                                                                                                             [37;1H~                                                                                                                                                                                                             [38;1H~                                                                                                                                                                                                             [39;1H~                                                                                                                                                                                                             [40;1H~                                                                                                                                                                                                             [41;1H~                                                                                                                                                                                                             [42;1H~                                                                                                                                                                                                             [43;1H~                                                                                                                                                                                                             [44;1H~                                                                                                                                                                                                             [45;1H~                                                                                                                                                                                                             [46;1H~                                                                                                                                                                                                             [47;1H~                                                                                                                                                                                                             [48;1H~                                                                                                                                                                                                             [49;1H~                                                                                                                                                                                                             [50;1H~                                                                                                                                                                                                             [51;1H~                                                                                                                                                                                                             [52;1H~                                                                                                                                                                                                             [53;1H~                                                                                                                                                                                                             [54;1H~                                                                                                                                                                                                             [55;1H~                                                                                                                                                                                                             [56;1H~                                                                                                                                                                                                             [57;1H~                                                                                                                                                                                                             [58;1H~                                                                                                                                                                                                             [1;1H[?12l[?25h[?25l[m[59;1H[1m-- INSERT --[m[59;13H[K[1;1H[?12l[?25h
+
+
+
+
+[8Cint array[10] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100}; [?25lcomment for dif[6;84H[K[6;68H[?12l[?25h[?25lomment for dif[6;83H[K[6;68H[?12l[?25h[?25lmment for dif[6;82H[K[6;68H[?12l[?25h[?25lment for dif[6;81H[K[6;68H[?12l[?25h[?25lent for dif[6;80H[K[6;68H[?12l[?25h[?25lnt for dif[6;79H[K[6;68H[?12l[?25h[?25lt for dif[6;78H[K[6;68H[?12l[?25h[?25l for dif[6;77H[K[6;68H[?12l[?25h[?25lfor dif[6;76H[K[6;68H[?12l[?25h[?25lor dif[6;75H[K[6;68H[?12l[?25h[?25lr dif[6;74H[K[6;68H[?12l[?25h[?25l dif[6;73H[K[6;68H[?12l[?25h[?25ldif[6;72H[K[6;68H[?12l[?25h[?25lif[6;71H[K[6;68H[?12l[?25h[?25lf[6;70H[K[6;68H[?12l[?25h[?25l[6;69H[K[6;68H[?12l[?25h[?25l[6;68H[K[6;68H[?12l[?25h[?25l[?12l[?25h[59;1H[K[6;66H[?25l[?12l[?25h[?25l[59;1H:[?12l[?25hwq[?25l"simple.c" 15L, 255C written
+[?1l>[?12l[?25h[?1049lbash-4.2$ git diff
+[?1h=diff --git a/git.script b/git.script[m
+index 68b992c..ea115d0 100644[m
+--- a/git.script[m
++++ b/git.script[m
+@@ -1,94 +1,42 @@[m
+-Script started on Sat 21 Aug 2021 03:29:12 PM CDT[m
+-bash-4.2$ "I forgot to start script earlier so I already cloned my repo, I will be making another clone of repo and then delete extra clone"[m
+-bash: I forgot to start script earlier so I already cloned my repo, I will be making another clone of repo and then delete extra clone: command not found[m
+-bash-4.2$ git status[m
++Script started on Sat 21 Aug 2021 03:44:47 PM CDT[m
++bash-4.2$ git log[m
++[7m^M[27mcommit 9f4d778e660e5aa440bce15c77834762327ebbba[m[m
++Author: Rajesh Patel <rajesh.patel20110@gmail.com>[m[m
++Date:   Sat Aug 21 15:41:59 2021 -0500[m[m
++[m[m
++    finished git script and added comment in simple.c for diff[m[m
++[m[m
++commit ae05937559e32d38d93f1e257ec7681de8a023b1[m[m
++Author: Rajesh Patel <rajesh.patel20110@gmail.com>[m[m
++Date:   Sat Aug 21 15:32:26 2021 -0500[m[m
++[m[m
++    added command.script, various info files, and c program file and executable[m[m
++[m[m
++commit ff60051c7cb1727ad732f6b588b44674515b339b[m[m
++Author: RajeshPatel17 <67518979+RajeshPatel17@users.noreply.github.com>[m[m
++Date:   Fri Aug 20 22:29:53 2021 -0500[m[m
++[m[m
++    Initial commit[m[m
++[7m^M[27mbash-4.2$ vi readmedelete.txt[m
++[27m[m"readmedelete.txt" [New File][1m[34m~                                                                                                                                                                               [m
++bash-4.2$ git status[m
+ # On branch main[m
+-# Untracked files:[m
+-#   (use "git add <file>..." to include in what will be committed)[m
+-#[m
+-#      commands.script[m
+-#      cpuinfo.txt[m
+-#      git.script[m
+-#      interrupts.txt[m
+-#      lspxi.txt[m
+-#      meminfo.txt[m
+-#      simple[m
+-#      simple.c[m
+-nothing added to commit but untracked files present (use "git add" to track)[m
+-bash-4.2$ git diff[m
+-[7m^M^M[27mbash-4.2$ git add C[7m^G^H^H^H^H^H^H^H^H^H^G[27mls[m
+-commands.script  cpuinfo.txt  git.script  interrupts.txt  lspxi.txt  meminfo.txt  README.md  simple  simple.c[m
+-bash-4.2$ git add c[7m^G[27m[m
+-commands.script  cpuinfo.txt      [m
+-bash-4.2$ git add commands.script c[7m^G[27mpuinfo.txt interrupts.txt lspxi.txt meminfo.txt si[7m^G[27mmple [7m^G[27ms[7m^G[27mimple.c [m
+-bash-4.2$ git commit -m "added command.script, various info files, and c program file and executable"[m
+-[main 1901722] added command.script, various info files, and c program file and executable[m
+- Committer: Rajesh R Patel <rrp0019@tux063.eng.auburn.edu>[m
+-Your name and email address were configured automatically based[m
+-on your username and hostname. Please check that they are accurate.[m
+-You can suppress this message by setting them explicitly:[m
+-[m
+-    git config --global user.name "Your Name"[m
+:[K[K[?1l>bash-4.2$ git status
+# On branch main
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   git.script
+#	deleted:    readmedelete.txt
+#	modified:   simple.c
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+bash-4.2$ git add simple.c
+bash-4.2$ git commit -m "renov[K[K[Kmoved comment in [K[K[K[K"
+[main 68dbe73] removed comment
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+bash-4.2$ git pius[K[K[Kush
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': RajeshPatel17
+Password for 'https://RajeshPatel17@github.com': 
+Counting objects: 5, done.
+Delta compression using up to 16 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 290 bytes | 0 bytes/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/RajeshPatel17/COMP3500_Project1.git
+   ffb0409..68dbe73  main -> main
+bash-4.2$ cd ..
+bash-4.2$ cd ..
 bash-4.2$ ls
-COMP3500_Project1
+project1
+bash-4.2$ cd ..
+bash-4.2$ ls
+comp3270  comp3500  ntuser.cmd
+bash-4.2$ cd comp33[K270/
 bash-4.2$ git clone https://github.com/RajeshPatel17/COMP3270_Module0.git
+fatal: destination path 'COMP3270_Module0' already exists and is not an empty directory.
+bash-4.2$ rmdir COMP3270_Module0/
+rmdir: failed to remove ‘COMP3270_Module0/’: Directory not empty
+bash-4.2$ rmdir COMP3270_Module0/[C-COMP3270_Module0/rCOMP3270_Module0/ COMP3270_Module0/
+rmdir: invalid option -- 'r'
+Try 'rmdir --help' for more information.
+bash-4.2$ rm,[K COMP3270_Module0/
+rm: cannot remove ‘COMP3270_Module0/’: Is a directory
+bash-4.2$ rm COMP3270_Module0/-COMP3270_Module0/[C[C[C[C[C[C[C[C[C[C[C[C[C[CdCOMP3270_Module0/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C COMP3270_Module0/
+rm: cannot remove ‘COMP3270_Module0/’: Directory not empty
+bash-4.2$ rm -d COMP3270_Module0/-COMP3270_Module0/rCOMP3270_Module0/ COMP3270_Module0/
+rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/b1/2f55d00094970cc98bcce500853ac0bd4971e3’? q
+rm: cannot remove ‘COMP3270_Module0/.git/objects/b1’: Directory not empty
+rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/01/a178ad4d82bd04e8299231ed5b1b8827f9ae82’? q quio t
+rm: cannot remove ‘COMP3270_Module0/.git/objects/01’: Directory not empty
+rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/d2/6152df7555d0a4bd39ab5177cab26c9951c516’? no
+rm: cannot remove ‘COMP3270_Module0/.git/objects/d2’: Directory not empty
+bash-4.2$ rm -d -r COMP3270_Module0/
+rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/b1/2f55d00094970cc98bcce500853ac0bd4971e3’? yes
+rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/01/a178ad4d82bd04e8299231ed5b1b8827f9ae82’? yes
+rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/d2/6152df7555d0a4bd39ab5177cab26c9951c516’? yes
+bash-4.2$ ls
+bash-4.2$ lsrm -d -r COMP3270_Module0/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3PCOMP3270_Module0/[C[C[C[C[C[C[C[C[C[C[C[C[C[3PCOMP3270_Module0/[C[C[C[C[C[C[C[C[C[C[C[Cdir -r COMP3270_Module0/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3PCOMP3270_Module0/[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/RajeshPatel17/COMP3270_Module0.git
 Cloning into 'COMP3270_Module0'...
 remote: Enumerating objects: 6, done.[K
 remote: Counting objects:  16% (1/6)[Kremote: Counting objects:  33% (2/6)[Kremote: Counting objects:  50% (3/6)[Kremote: Counting objects:  66% (4/6)[Kremote: Counting objects:  83% (5/6)[Kremote: Counting objects: 100% (6/6)[Kremote: Counting objects: 100% (6/6), done.[K
 remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
 remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0[K
 Unpacking objects:  16% (1/6)   Unpacking objects:  33% (2/6)   Unpacking objects:  50% (3/6)   Unpacking objects:  66% (4/6)   Unpacking objects:  83% (5/6)   Unpacking objects: 100% (6/6)   Unpacking objects: 100% (6/6), done.
-bash-4.2$ git status
-fatal: Not a git repository (or any parent up to mount point /home/u2)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-bash-4.2$ ls[K[Kls
-COMP3270_Module0  COMP3500_Project1
-bash-4.2$ rm COMP3[K2[KC[Kc[K3270_Module0/[C[C-COMP3270_Module0/[C[C[C[C[C[C[C[C[C[C[C[C[C[CrCOMP3270_Module0/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C COMP3270_Module0/
-rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/03/382eefad9b36356753b2e5d642336119f11c75’? yes
-rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/b8/5a0422ffdf365bdd8dbdcc1fcc0d28ad289316’? y
-rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/b1/2f55d00094970cc98bcce500853ac0bd4971e3’? 
-rm: cannot remove ‘COMP3270_Module0/.git/objects/b1’: Directory not empty
-rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/01/a178ad4d82bd04e8299231ed5b1b8827f9ae82’? true
-rm: cannot remove ‘COMP3270_Module0/.git/objects/01’: Directory not empty
-rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/6b/699a1ecd8aa2cf99feda27db841acde8bc97a7’? yes
-rm: remove write-protected regular file ‘COMP3270_Module0/.git/objects/d2/6152df7555d0a4bd39ab5177cab26c9951c516’? exit
-rm: cannot remove ‘COMP3270_Module0/.git/objects/d2’: Directory not empty
-bash-4.2$ mv COMP3270_Module0/ ../..
-bash-4.2$ ls
-COMP3500_Project1
-bash-4.2$ cd ../..
-bash-4.2$ ls
-COMP3270_Module0  comp3500  ntuser.cmd
-bash-4.2$ mkfir[K[K[Kfir[K[K[Kdir comp3270
-bash-4.2$ mv COMP3270_Module0/[K[K[K[K[K[K[K[K[K[K[K[K270_Module0/ comp3270/
-bash-4.2$ ls
-comp3270  comp3500  ntuser.cmd
-bash-4.2$ cd C[Kcomp3270/
 bash-4.2$ ls
 COMP3270_Module0
 bash-4.2$ cd COMP3270_Module0/
 bash-4.2$ git status
-fatal: Not a git repository (or any parent up to mount point /home/u2)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-bash-4.2$ cd ..[K[K[K[K[Kt[Kls
-bash-4.2$ pwd
-/home/u2/rrp0019/comp3270/COMP3270_Module0
-bash-4.2$ cd ..
+# On branch main
+nothing to commit, working directory clean
+bash-4.2$ ls
+hello.rb
+bash-4.2$ d [K[Kcd ..
 bash-4.2$ cd ..
 bash-4.2$ ls
 comp3270  comp3500  ntuser.cmd
-bash-4.2$ git [K[K[K[Kc[Kcd comp3500/
-bash-4.2$ ls
-project1
-bash-4.2$ cd project1/COMP3500_Project1/
+bash-4.2$ cd C[Kcomp3500/project1/COMP3500_Project1/
 bash-4.2$ ls
 commands.script  cpuinfo.txt  git.script  interrupts.txt  lspxi.txt  meminfo.txt  README.md  simple  simple.c
-bash-4.2$ git status
-# On branch main
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-#
-#	git.script
-nothing added to commit but untracked files present (use "git add" to track)
-bash-4.2$ git [K[K[K[Kvi simple.c
-[?1049h[?1h=[1;59r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[59;1H"simple.c" 15L, 255C[1;1H#include <stdio.h>
-#include <math.h>
-
-int main()
-{[6;9Hint array[10] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};[7;9Hdouble average = 0.00;[9;9Hfor(int i = 0; i < 10; i++)[10;9H{[11;17Haverage += sqrt((double)array[i]);[12;9H}[13;9Haverage /= 10;[14;9Hprintf("%.2f\n", average);
-}
-[1m[34m~                                                                                                                                                                                                             [17;1H~                                                                                                                                                                                                             [18;1H~                                                                                                                                                                                                             [19;1H~                                                                                                                                                                                                             [20;1H~                                                                                                                                                                                                             [21;1H~                                                                                                                                                                                                             [22;1H~                                                                                                                                                                                                             [23;1H~                                                                                                                                                                                                             [24;1H~                                                                                                                                                                                                             [25;1H~                                                                                                                                                                                                             [26;1H~                                                                                                                                                                                                             [27;1H~                                                                                                                                                                                                             [28;1H~                                                                                                                                                                                                             [29;1H~                                                                                                                                                                                                             [30;1H~                                                                                                                                                                                                             [31;1H~                                                                                                                                                                                                             [32;1H~                                                                                                                                                                                                             [33;1H~                                                                                                                                                                                                             [34;1H~                                                                                                                                                                                                             [35;1H~                                                                                                                                                                                                             [36;1H~                                                                                                                                                                                                             [37;1H~                                                                                                                                                                                                             [38;1H~                                                                                                                                                                                                             [39;1H~                                                                                                                                                                                                             [40;1H~                                                                                                                                                                                                             [41;1H~                                                                                                                                                                                                             [42;1H~                                                                                                                                                                                                             [43;1H~                                                                                                                                                                                                             [44;1H~                                                                                                                                                                                                             [45;1H~                                                                                                                                                                                                             [46;1H~                                                                                                                                                                                                             [47;1H~                                                                                                                                                                                                             [48;1H~                                                                                                                                                                                                             [49;1H~                                                                                                                                                                                                             [50;1H~                                                                                                                                                                                                             [51;1H~                                                                                                                                                                                                             [52;1H~                                                                                                                                                                                                             [53;1H~                                                                                                                                                                                                             [54;1H~                                                                                                                                                                                                             [55;1H~                                                                                                                                                                                                             [56;1H~                                                                                                                                                                                                             [57;1H~                                                                                                                                                                                                             [58;1H~                                                                                                                                                                                                             [1;1H[?12l[?25h
-
-[?25l[m[59;1H[1m-- INSERT --[m[59;13H[K[3;1H[?12l[?25h
-
-
-[8Cint array[10] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};[?25l [?12l[?25h[?25li[?12l[?25h[?25l[6;68H[K[6;68H[?12l[?25h[?25l#[?12l[?25h[?25lc[?12l[?25h[?25lo[?12l[?25h[?25lm[?12l[?25h[?25lm[?12l[?25h[?25le[?12l[?25h[?25ln[?12l[?25h[?25lt[?12l[?25h[?25l [?12l[?25h[?25lf[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25l [?12l[?25h[?25ld[?12l[?25h[?25li[?12l[?25h[?25lf[?12l[?25h[?25lf[?12l[?25h[59;1H[K[6;84H[?25l[?12l[?25h[?25l[59;1H:[?12l[?25hwq[?25l"simple.c" 15L, 273C written
-[?1l>[?12l[?25h[?1049lbash-4.2$ git diff
-[?1h=diff --git a/simple.c b/simple.c[m
-index 3076d03..405c396 100644[m
---- a/simple.c[m
-+++ b/simple.c[m
-@@ -3,7 +3,7 @@[m
- [m
- int main()[m
- {[m
--       int array[10] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};[m
-+       int array[10] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100}; #comment for diff[m
-        double average = 0.00;[m
-        [m
-        for(int i = 0; i < 10; i++)[m
-[K[?1l>bash-4.2$ git status
-# On branch main
-# Changes not staged for commit:
-#   (use "git add <file>..." to update what will be committed)
-#   (use "git checkout -- <file>..." to discard changes in working directory)
-#
-#	modified:   simple.c
-#
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-#
-#	git.script
-no changes added to commit (use "git add" and/or "git commit -a")
 bash-4.2$ exit
 exit
 
-Script done on Sat 21 Aug 2021 03:41:31 PM CDT
+Script done on Sat 21 Aug 2021 03:52:43 PM CDT
