@@ -1,0 +1,16 @@
+Report - COMP 3500 Project 1
+
+Rajesh Patel 8/21/2021
+
+Step 1 - OS Setup
+
+I originally was going to use the VirtualBox/CentOS combo for this project and was able to successfully install VirtualBox and CentOS (after a considerable amount of time, the setup was just long).
+I then decided that VirtualBox's interface was pretty bad and did not like the overhead of hosting a vm on my computer so I transitioned to PuTTY. The setup was quick for that and I ran into no issues as I had previous experience connecting to the Tux machines in COMP2710
+
+Step 3 - Getting Reports
+
+I had no problem getting the reports, they are contained in the tarball. It was really easy to pipe them to the file as well
+
+Step 4 - Writing Code
+
+I ran into some issues using gdb to debug my program. The issue stemmed from me not placing a breakpoint in my program in combination with my program not having any errors. I was able to fix this by looking at the FAQ page. I ended up posting on Piazza incase someone else experienced the same issue because it was not directly addressed in the FAQ
